@@ -10,19 +10,19 @@ Using MLPs and CNNs to classify Fashion-MNIST items.
 ## Installation
 
 ```shell
-python3.8 -m pip install poetry
+python3 -m pip install poetry
 ```
 
 and then:
 
 ```shell
-python3.8 -m poetry install
+python3 -m poetry install
 ```
 
 To serve the Jupyter notebooks, run:
 
 ```shell
-python3.8 -m poetry run jupyter notebook
+python3 -m poetry run jupyter notebook
 ```
 
 ## Citation
