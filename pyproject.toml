@@ -3,10 +3,13 @@ name = "fashion-mnist-classification"
 version = "0.1.0"
 description = "Using MLPs and CNNs to classify Fashion-MNIST items."
 authors = ["Silva Ndoja <silvandoja1@gmail.com>", "Ilias Antonopoulos <ilias.antonopoulos@yahoo.gr>"]
+readme = "README.md"
 license = "MIT"
+repository = "https://github.com/ilias-ant/fashion-mnist-classification"
+keywords = ["deep-learning", "cnn-classification", "mlp-classification", "fashion-mnist"]
 
 [tool.poetry.dependencies]
-python = ">=3.7,<3.9"
+python = ">=3.8,<3.11"
 tensorflow = "^2.8.0"
 
 [tool.poetry.dev-dependencies]
