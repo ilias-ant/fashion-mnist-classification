@@ -27,6 +27,7 @@ python3 -m poetry run jupyter notebook
 
 ## Citation
 
+For the Fashion-MNIST dataset:
 ```bibtex
 @online{xiao2017/online,
   author       = {Han Xiao and Kashif Rasul and Roland Vollgraf},
@@ -36,5 +37,15 @@ python3 -m poetry run jupyter notebook
   eprintclass  = {cs.LG},
   eprinttype   = {arXiv},
   eprint       = {cs.LG/1708.07747},
+}
+```
+
+For KerasTuner:
+```bibtex
+@misc{omalley2019kerastuner,
+    title        = {KerasTuner},
+    author       = {O'Malley, Tom and Bursztein, Elie and Long, James and Chollet, Fran\c{c}ois and Jin, Haifeng and Invernizzi, Luca and others},
+    year         = 2019,
+    howpublished = {\url{https://github.com/keras-team/keras-tuner}}
 }
 ```
