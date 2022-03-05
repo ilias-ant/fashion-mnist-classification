@@ -12,7 +12,7 @@ keywords = ["deep-learning", "cnn-classification", "mlp-classification", "fashio
 python = ">=3.8,<3.11"
 tensorflow = "2.8.0"
 matplotlib = "~3.5.1"
-keras-tuner = "1.0.1"
+keras-tuner = "~1.1.0"
 scikit-learn = "~1.0.2"
 
 [tool.poetry.dev-dependencies]
