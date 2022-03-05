@@ -15,6 +15,8 @@ tensorflow = "2.8.0"
 matplotlib = "~3.5.1"
 keras-tuner = "~1.1.0"
 scikit-learn = "~1.0.2"
+pydot = "~1.4.2"
+graphviz = "~0.19.1"
 
 [tool.poetry.dev-dependencies]
 notebook = "^6.4.8"
