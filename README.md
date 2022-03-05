@@ -27,6 +27,11 @@ To serve the Jupyter notebooks, run:
 python3 -m poetry run jupyter notebook
 ```
 
+## Contributors
+
+- [Ilias Antonopoulos](https://github.com/ilias-ant)
+- [Silva Ndoja](https://github.com/sndoja)
+
 ## Citation
 
 For the Fashion-MNIST dataset:
