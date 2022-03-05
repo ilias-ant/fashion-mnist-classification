@@ -4,10 +4,12 @@
 
 Using MLPs and CNNs to classify Fashion-MNIST items.
 
-<img src="static/embedding.gif" width="100%">
+<img src="static/tsne-embeddings.png" width="100%">
 
 
 ## Installation
+
+To enable reproducibility, [Poetry](https://python-poetry.org/) has been used as a dependency manager.
 
 ```shell
 python3 -m pip install poetry
